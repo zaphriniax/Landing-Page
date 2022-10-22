@@ -1,6 +1,6 @@
 # _Hydaly's Portfolio Webpage_
 #### By _**Hydaly Ouanesavanh**_
-#### _This is a portfolio webpage that will be used as the landing page for my programming protfolio_
+#### _This is a portfolio webpage that will be used as the landing page for hydaly's programming protfolio_
 ## Technologies Used
 
 *_HTML_
