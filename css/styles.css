@@ -5,7 +5,7 @@ h1 {
 }
 
 img {
-  width: 30%;
+  width: 27%;
   margin: auto;
   border: 10px solid rgba(91, 49, 133, 0.925);
   padding:auto;
@@ -16,4 +16,10 @@ img {
 body {
   background-color: rgb(231, 225, 236);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.abtme {
+  height: 30%;
+  border: 5px dotted rgb(36, 20, 36);
+  margin: 5px;
 }
