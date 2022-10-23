@@ -29,3 +29,10 @@ body {
   border: 5px dotted rgb(36, 20, 36);
   margin: auto;
 }
+
+.mybgd {
+  height: 30%;
+  border: 5px dotted rgb(36, 20, 36);
+  padding: 20px;
+  margin: auto;
+}
