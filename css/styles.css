@@ -22,12 +22,14 @@ body {
   height: 30%;
   border: 5px solid rgb(36, 20, 36);
   margin: auto;
+  box-sizing: border-box;
 }
 
 .myproj {
   height: 30%;
   border: 5px solid rgb(36, 20, 36);
   margin: auto;
+  box-sizing: border-box
 }
 
 .mybgd {
