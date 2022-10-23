@@ -21,5 +21,11 @@ body {
 .abtme {
   height: 30%;
   border: 5px dotted rgb(36, 20, 36);
-  margin: 5px;
+  margin: auto;
+}
+
+.myproj {
+  height: 30%;
+  border: 5px dotted rgb(36, 20, 36);
+  margin: auto;
 }
