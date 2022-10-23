@@ -36,3 +36,9 @@ body {
   padding: 20px;
   margin: auto;
 }
+
+.blue {
+  color: rgb(119, 119, 180);
+  font-style: italic;
+  font-weight: 200;
+}
