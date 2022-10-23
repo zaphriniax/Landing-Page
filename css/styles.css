@@ -42,3 +42,8 @@ body {
   font-style: italic;
   font-weight: 200;
 }
+
+.time {
+  color: rgb(85, 85, 85);
+  font-style: italic;
+}
