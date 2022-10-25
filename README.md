@@ -1,10 +1,12 @@
 # _Hydaly's Portfolio Webpage_
 #### By _**Hydaly Ouanesavanh**_
 #### _This is a portfolio webpage that will be used as the landing page for hydaly's programming protfolio_
+## Link to GitHub Page
+_https://zaphriniax.github.io/Landing-Page/_
 ## Technologies Used
 
-*_HTML_
-*_CSS_
+* _HTML_
+* _CSS_
 
 ## Description
 
@@ -12,9 +14,9 @@ _{This webpage will provide information on Hydaly Ouanesavanh such as her biogra
 
 ## Setup/Installation Requirements
 
-*_Clone this repository to your desktop._
-*_Navigate to the top level of the directory._
-*_Open index.html in your browser._
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser._
 
 ## Known Bugs
 
